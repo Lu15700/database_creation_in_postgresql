@@ -9,4 +9,3 @@ Creation of database in PostgreSQL, in accordance to the following design: [Data
 ## Snippet
 
 ## ...
-C:\Users\andro\OneDrive\Projects\2. Active\01\Database Creation in PostgreSQL\Images\Database Creation Screenshot.png
